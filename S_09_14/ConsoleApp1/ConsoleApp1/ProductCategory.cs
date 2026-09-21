@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    public class ProductCategory
+    public enum ProductCategory
     {
-
+        Drink, Snack, Food
     }
 }

@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //VendingMachine vendingMachine = new VendingMachine();
+            //vendingMachine.LoadProducts("products.txt");
         }
     }
 }
